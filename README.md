@@ -37,7 +37,7 @@ Learn to update existing data by removing Thomas 9th grade data and recreating p
 
 ![Resources/04_Grade_updated.png](Resources/04_Math_updated.png) *Without Thomas High School 9th graders Math*
 
-        As can be seen in the images above, the only different is that now there are no 9th grade scores available for reading and math. None of the other scores changed. This is specifically looking at the tail of each.
+- - As can be seen in the images above, the only different is that now there are no 9th grade scores available for reading and math. None of the other scores changed. This is specifically looking at the tail of each.
 
 
 - - **Scores by school spending**
@@ -46,14 +46,13 @@ Learn to update existing data by removing Thomas 9th grade data and recreating p
 
 ![Resources/02_School_summary_updated.png](Resources/02_School_summary_updated.png) *Without Thomas High School 9th graders*
         
-        Looking at spending ranges per student, this did not change. There was no added calculation to remove students from data, therefore the calculation remained the same. This was 638 initially. Removing students also removes budget for the students, so the calculation would have made it seem as though the students were given more money if I had just subtracted students. Regardless of how the students cheated, the budget was still spent the same.
+- - Looking at spending ranges per student, this did not change. There was no added calculation to remove students from data, therefore the calculation remained the same. This was 638 initially. Removing students also removes budget for the students, so the calculation would have made it seem as though the students were given more money if I had just subtracted students. Regardless of how the students cheated, the budget was still spent the same.
 
 - - **Scores by school size**
-
-        Similar to above, there was no change in the calculation. If the directions had prompted me to change the total students from total scores, perhaps it would have changed the calculation. The school remains a medium size school. Even if the calculation was adjusted, there were still over 1000 students and less than 2000 so it would not have changed.
+- - Similar to above, there was no change in the calculation. If the directions had prompted me to change the total students from total scores, perhaps it would have changed the calculation. The school remains a medium size school. Even if the calculation was adjusted, there were still over 1000 students and less than 2000 so it would not have changed.
 
 - - **Scores by school type**
-        Similar to above, there was no change in the calculation for school type. Thomas High School remains a charter regardless.
+- - Similar to above, there was no change in the calculation for school type. Thomas High School remains a charter regardless.
 
 
 ## Summary
