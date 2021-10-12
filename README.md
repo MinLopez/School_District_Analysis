@@ -27,32 +27,31 @@ Learn to update existing data by removing Thomas 9th grade data and recreating p
     Although their overall passing score did drop, from 90.94 to 90.63 percent, but overall, even without the ninth graders, their score was still higher than Griffin high school's overall score at 90.60% They were still the second best overall passing school.
 
 - **How does replacing the ninth-grade scores affect the following:**
-- - **Math and reading scores by grade**
+    - **Math and reading scores by grade**
 
-![Resources/04_Grade.png](Resources/04_Grade.png) *Original Reading*
+    ![Resources/04_Grade.png](Resources/04_Grade.png) *Original Reading*
 
-![Resources/04_Grade_updated.png](Resources/04_Grade_updated.png) *Without Thomas High School 9th graders Reading*
+    ![Resources/04_Grade_updated.png](Resources/04_Grade_updated.png) *Without Thomas High School 9th graders Reading*
 
-![Resources/04_Grade.png](Resources/04_Math.png) *Original Math* 
+    ![Resources/04_Grade.png](Resources/04_Math.png) *Original Math* 
 
-![Resources/04_Grade_updated.png](Resources/04_Math_updated.png) *Without Thomas High School 9th graders Math*
+    ![Resources/04_Grade_updated.png](Resources/04_Math_updated.png) *Without Thomas High School 9th graders Math*
 
-- - As can be seen in the images above, the only different is that now there are no 9th grade scores available for reading and math. None of the other scores changed. This is specifically looking at the tail of each.
+        - As can be seen in the images above, the only different is that now there are no 9th grade scores available for reading and math. None of the other scores changed. This is specifically looking at the tail of each.
 
+    - **Scores by school spending**
 
-- - **Scores by school spending**
+    ![Resources/02_School_summary.png](Resources/02_School_summary.png) *Original*
 
-![Resources/02_School_summary.png](Resources/02_School_summary.png) *Original*
-
-![Resources/02_School_summary_updated.png](Resources/02_School_summary_updated.png) *Without Thomas High School 9th graders*
+    ![Resources/02_School_summary_updated.png](Resources/02_School_summary_updated.png) *Without Thomas High School 9th graders*
         
-- - Looking at spending ranges per student, this did not change. There was no added calculation to remove students from data, therefore the calculation remained the same. This was 638 initially. Removing students also removes budget for the students, so the calculation would have made it seem as though the students were given more money if I had just subtracted students. Regardless of how the students cheated, the budget was still spent the same.
+        - Looking at spending ranges per student, this did not change. There was no added calculation to remove students from data, therefore the calculation remained the same. This was 638 initially. Removing students also removes budget for the students, so the calculation would have made it seem as though the students were given more money if I had just subtracted students. Regardless of how the students cheated, the budget was still spent the same.
 
-- - **Scores by school size**
-- - Similar to above, there was no change in the calculation. If the directions had prompted me to change the total students from total scores, perhaps it would have changed the calculation. The school remains a medium size school. Even if the calculation was adjusted, there were still over 1000 students and less than 2000 so it would not have changed.
+    - **Scores by school size**
+        - Similar to above, there was no change in the calculation. If the directions had prompted me to change the total students from total scores, perhaps it would have changed the calculation. The school remains a medium size school. Even if the calculation was adjusted, there were still over 1000 students and less than 2000 so it would not have changed.
 
-- - **Scores by school type**
-- - Similar to above, there was no change in the calculation for school type. Thomas High School remains a charter regardless.
+    - **Scores by school type**
+       - Similar to above, there was no change in the calculation for school type. Thomas High School remains a charter regardless.
 
 
 ## Summary
